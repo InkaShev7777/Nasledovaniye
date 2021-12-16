@@ -18,5 +18,25 @@
     <ClCompile Include="Nasledovaniye.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Telefon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Knopochniy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Smartphone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Telefon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Knopochniy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Smartphone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

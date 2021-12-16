@@ -139,7 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Knopochniy.cpp" />
     <ClCompile Include="Nasledovaniye.cpp" />
+    <ClCompile Include="Smartphone.cpp" />
+    <ClCompile Include="Telefon.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Knopochniy.h" />
+    <ClInclude Include="Smartphone.h" />
+    <ClInclude Include="Telefon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
